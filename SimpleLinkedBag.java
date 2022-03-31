@@ -1,4 +1,4 @@
-package game;
+
 
 import bag.Node;
 import bag.SimpleBagInterface;
@@ -6,7 +6,6 @@ import student.TestableRandom;
 
 /**
  *
-
  * @param <T>
  *            the entry
  */
